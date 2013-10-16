@@ -1,0 +1,16 @@
+%head
+  %link{ rel: "apple-touch-icon", sizes: "144x144", href: "apple-touch-icon-144x144-precomposed.png" }
+  %link{ rel: "apple-touch-icon", sizes: "114x114", href: "apple-touch-icon-114x114-precomposed.png" }
+  %link{ rel: "apple-touch-icon", sizes: "72x72", href: "apple-touch-icon-72x72-precomposed.png" }
+  %link{ rel: "apple-touch-icon", href: "apple-touch-icon-precomposed.png" }
+  %link{ rel: "shortcut icon", href: "favicon.png" }
+  %link{ rel: "icon", type: "image/ico", href: "favicon.ico" }
+  %link{ href: 'http://fonts.googleapis.com/css?family=Italiana', rel: 'stylesheet', type: 'text/css' }
+  %meta{:charset => "utf-8"}
+  / Always force latest IE rendering engine or request Chrome Frame
+  %meta{:content => "IE=edge,chrome=1", "http-equiv" => "X-UA-Compatible"}/
+  / Use title if it's in the page YAML frontmatter
+  %title=  data.page.title
+  = stylesheet_link_tag 'http://fonts.googleapis.com/css?family=Lato:400,700'
+  = stylesheet_link_tag  "all"
+  = javascript_include_tag 'all'

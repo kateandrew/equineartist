@@ -1,0 +1,11 @@
+.gallery
+  - size = :thumb
+  - gallery_data(code).each do |item|
+    %a{:href => item['image_uris'][:zoom], :class => 'gallery_'+size.to_s, :rel=>'ChillBoxGroup1'+group_id}
+      %img{:src => item['image_uris'][size]}
+      %span.item-name=item['name']
+      - if item['description']
+        %span.item-description=item['description']
+      - if item['price']
+        %span.item-description=item['price']
+  .clear

@@ -1,0 +1,39 @@
+@import normalize
+@import compass
+@import "compass/typography/vertical_rhythm"
+@include establish-baseline
+html
+  background: #eed19a image_url('bg_grain.jpg') fixed
+body
+  background: transparent image_url('bg-fixed.jpg') fixed 100% 0 no-repeat
+  padding: 2em 4em
+h1
+  font-family: Italiana, Arial, sans-serif
+  font-style: italic
+  border-bottom: 1px solid #333
+  max-width: 700px
+  @include adjust-font-size-to(48px)
+header
+  font-family: Italiana, Arial, sans-serif
+  font-style: italic
+  border-bottom: 1px solid #333
+  max-width: 700px
+  @include adjust-font-size-to(32px)
+.gallery
+  clear: both
+  overflow: hidden
+  max-width: 900px
+.gallery_thumb
+  float: left
+  max-width: 180px
+  min-height: 120px
+  background: #fff6dd
+  padding: 0.5em
+  margin: 0.5em
+  border-radius: 0.4em
+  transition: 0.6s
+  &:hover
+    background: #f5e4c3
+  img
+    display: block
+    margin: 0 auto
