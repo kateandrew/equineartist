@@ -1,0 +1,104 @@
+- file: 01.jpg
+  name: first one
+  description: descriptions
+  price: $1,000,000
+  gallery: for_sale
+- file: 02.jpg
+  name: second one
+  description: descriptions
+  gallery: gallery
+- file: 04.jpg
+  name: second one
+  description: descriptions
+  price: $2,000,000
+  gallery: for_sale
+- file: 06.jpg
+  name: second one
+  description: descriptions
+  price: $2,000,000
+  galler: for_sale
+- file: 07.jpg
+  name: first one
+  description: descriptions
+  price: $1,000,000
+  gallery: for_sale
+- file: 08.jpg
+  name: second one
+  description: descriptions
+  gallery: gallery
+- file: 09.jpg
+  name: first one
+  description: descriptions
+  gallery: gallery
+- file: 10.jpg
+  name: second one
+  description: descriptions
+  gallery: gallery
+- file: 11.jpg
+  name: first one
+  description: descriptions
+  gallery: gallery
+- file: 12.jpg
+  name: second one
+  description: descriptions
+  gallery: gallery
+- file: 08.jpg
+  name: second one
+  description: descriptions
+  gallery: gallery
+- file: 09.jpg
+  name: first one
+  description: descriptions
+  gallery: gallery
+- file: 10.jpg
+  name: second one
+  description: descriptions
+  gallery: gallery
+- file: 11.jpg
+  name: first one
+  description: descriptions
+  gallery: gallery
+- file: 12.jpg
+  name: second one
+  description: descriptions
+  gallery: gallery
+- file: 08.jpg
+  name: second one
+  description: descriptions
+  gallery: gallery
+- file: 09.jpg
+  name: first one
+  description: descriptions
+  gallery: gallery
+- file: 10.jpg
+  name: second one
+  description: descriptions
+  gallery: gallery
+- file: 11.jpg
+  name: first one
+  description: descriptions
+  gallery: gallery
+- file: 12.jpg
+  name: second one
+  description: descriptions
+  gallery: gallery
+- file: 08.jpg
+  name: second one
+  description: descriptions
+  gallery: gallery
+- file: 09.jpg
+  name: first one
+  description: descriptions
+  gallery: gallery
+- file: 10.jpg
+  name: second one
+  description: descriptions
+  gallery: gallery
+- file: 11.jpg
+  name: first one
+  description: descriptions
+  gallery: gallery
+- file: 12.jpg
+  name: second one
+  description: descriptions
+  gallery: gallery

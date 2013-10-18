@@ -7,17 +7,24 @@ html
 body
   background: transparent image_url('bg-fixed.jpg') fixed 100% 0 no-repeat
   padding: 2em 4em
+.clear
+  clear: both
 h1
   font-family: Italiana, Arial, sans-serif
-  font-style: italic
   border-bottom: 1px solid #333
-  max-width: 700px
+  max-width: 845px
   @include adjust-font-size-to(48px)
+a
+  color: #46433f
+  text-decoration: none
+  transition: 0.5s
+  &:hover
+    color: #222
 header
   font-family: Italiana, Arial, sans-serif
-  font-style: italic
   border-bottom: 1px solid #333
-  max-width: 700px
+  max-width: 845px
+  margin-top: 1.5em
   @include adjust-font-size-to(32px)
 .gallery
   clear: both
@@ -26,7 +33,7 @@ header
 .gallery_thumb
   float: left
   max-width: 180px
-  min-height: 120px
+  min-height: 170px
   background: #fff6dd
   padding: 0.5em
   margin: 0.5em
