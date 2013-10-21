@@ -1,7 +1,7 @@
 .gallery
   - size = :thumb
   - gallery_data(code).each_with_index do |item, i|
-    %a{:href => item['image_uris'][:zoom], :class => 'gallery_'+size.to_s, :rel=>'ChillBoxGroup1'+group_id}
+    %a{:href => item['image_uris'][:zoom], :class => 'gallery_'+size.to_s, :rel=>"lightbox[#{group_id}]", 'data-ob_shareLink'=>"http://www.equineartist.co.nz/", 'data-ob_caption' => html_escape("#{item['name']} - #{item['description']}") }
       %img{:src => item['image_uris'][size]}
       %span.item-name=item['name']
       - if item['description']
