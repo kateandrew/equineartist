@@ -1,4 +1,3 @@
-(function(a){a.fn.emailLink=function(c){var d={domainDelimeter:" / ",dotDelimeter:", ",textSrc:"title"};var b=document.location.hostname.replace(/^www\./,"");return this.each(function(){if(c){a.extend(d,c)}var i,g,f;try{g=a(this).text().split(d.domainDelimeter);i=(g.length==2)?g[0]+"@"+g[1]:g[0]+"@"+b;i=i.replace(new RegExp(d.dotDelimeter,"g"),".");f=a(document.createElement("a"));f.prop("href","mailto:"+i);if(a(this).prop(d.textSrc)){f.text(a(this).prop(d.textSrc))}else{f.text(i)}f.addClass("e-mail");a(this).replaceWith(f)}catch(h){}})}})(jQuery);
 /*
  * version: 2.0.3
  * package: OrangeBox
@@ -719,13 +718,3 @@ jQuery(document).ready(function($) {
     if (typeof orangebox_vars !== "undefined") { $('a[rel*=lightbox]').orangeBox(orangebox_vars); }
     else { $('a[rel*=lightbox]').orangeBox(); }
 });
-(function($) {
-  $(document).ready( function() {
-    $('.e').emailLink();
-    var header_pos =  $('.contacts').offset().top - 30;
-    $(window).resize( function(){ $('.header-outer').css('height', '').css('height', $('.header-outer').outerHeight()); } ).resize();
-    $(window).scroll(function(e){
-      $('.header').toggleClass('fixed', ($(window).scrollTop() > header_pos));
-    });
-  } );
-})(jQuery);
