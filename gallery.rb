@@ -52,10 +52,10 @@ module Gallery
     end
     def gallery_path file=nil, size=nil
       File.join(root, source, relative_gallery_path(file, size))
-      end
+    end
     def uri file=nil, size=nil
       resize_image(file, size) if (!File.exists? gallery_path(file, size))
-      File.join('/', relative_gallery_path(file, size))
+      File.join(relative_gallery_path(file, size)) #@todo: image_url helper
     end
     def resize_image(file, size)
       size_dir = gallery_path(nil, size.to_s)
