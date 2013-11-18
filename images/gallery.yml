@@ -1,104 +1,127 @@
 - file: 01.jpg
-  name: first one
-  description: descriptions
-  price: $1,000,000
-  gallery: for_sale
+  name: Oil on canvas
+  gallery: gallery
 - file: 02.jpg
-  name: second one
-  description: descriptions
+  name: Sold
   gallery: gallery
+#- file: 03.jpg
+  #name: Sold
+  #gallery: gallery
 - file: 04.jpg
-  name: second one
-  description: descriptions
-  price: $2,000,000
-  gallery: for_sale
+  name: Sold
+  gallery: gallery
+#- file: 05.jpg
+  #name: NFS
+  #gallery: gallery
 - file: 06.jpg
-  name: second one
-  description: descriptions
-  price: $2,000,000
-  galler: for_sale
+  name: NFS
+  gallery: gallery
 - file: 07.jpg
-  name: first one
-  description: descriptions
-  price: $1,000,000
+  name: Sold
+  gallery: gallery
+- file: 08.jpg
+  name: Racebook collage and oil on canvas.
+  gallery: gallery
+- file: 09.jpg
+  name: Oil on board 1200+850mm
   gallery: for_sale
-- file: 08.jpg
-  name: second one
-  description: descriptions
-  gallery: gallery
-- file: 09.jpg
-  name: first one
-  description: descriptions
-  gallery: gallery
+  price: $950
 - file: 10.jpg
-  name: second one
-  description: descriptions
+  name: NFS
   gallery: gallery
 - file: 11.jpg
-  name: first one
-  description: descriptions
+  name: Sold
   gallery: gallery
 - file: 12.jpg
-  name: second one
-  description: descriptions
+  name: Oil +collage on canvas 450+450mm
+  price: $650
+  gallery: for_sale
+- file: 13.jpg
+  name: Oil on board, framed 1200+950mm
+  price: $1,450
+  gallery: for_sale
+- file: 14.jpg
+  name: Commission
   gallery: gallery
-- file: 08.jpg
-  name: second one
-  description: descriptions
+- file: 15.jpg
+  name: Commission
   gallery: gallery
-- file: 09.jpg
-  name: first one
-  description: descriptions
+- file: 16.jpg
+  name: NFS
   gallery: gallery
-- file: 10.jpg
-  name: second one
-  description: descriptions
+- file: 17.jpg
+  name: NFS
   gallery: gallery
-- file: 11.jpg
-  name: first one
-  description: descriptions
+- file: 18.jpg
+  name: Oil on board, framed
   gallery: gallery
-- file: 12.jpg
-  name: second one
-  description: descriptions
+- file: 19.jpg
+  name: Oil on canvas
   gallery: gallery
-- file: 08.jpg
-  name: second one
-  description: descriptions
+#- file: 20.jpg
+  #name: Oil on board, framed
+  #gallery: gallery
+- file: 21.jpg
+  name: Oil on board, framed
   gallery: gallery
-- file: 09.jpg
-  name: first one
-  description: descriptions
+- file: 22.jpg
+  name:  Oil on board, framed
   gallery: gallery
-- file: 10.jpg
-  name: second one
-  description: descriptions
+- file: 23.jpg
+  name: Sold
   gallery: gallery
-- file: 11.jpg
-  name: first one
-  description: descriptions
+- file: 24.jpg
+  name: NFS
   gallery: gallery
-- file: 12.jpg
-  name: second one
-  description: descriptions
+- file: 25.jpg
+  name: Sold
   gallery: gallery
-- file: 08.jpg
-  name: second one
-  description: descriptions
+- file: 26.jpg
+  name: NFS
   gallery: gallery
-- file: 09.jpg
-  name: first one
-  description: descriptions
+- file: 27.jpg
+  name: Our horses; my models
   gallery: gallery
-- file: 10.jpg
-  name: second one
-  description: descriptions
+- file: 31.jpg
+  name: Pencil 'bargue' drawing.
   gallery: gallery
-- file: 11.jpg
-  name: first one
-  description: descriptions
+- file: 31a.jpg
+  name: detail
   gallery: gallery
-- file: 12.jpg
-  name: second one
-  description: descriptions
+- file: 32.jpg
+  name: Oil on canvas
+  gallery: gallery
+- file: 33.jpg
+  name: Oil on canvas 900+750mm
+  price: $1,500
+  gallery: for_sale
+- file: 34.jpg
+  name: Oil on canvas
+  price: $750
+  gallery: for_sale
+- file: 35.jpg
+  name: NFS, Save The Children card
+  gallery: gallery
+- file: 36.jpg
+  name: Oil on canvas
+  price: $650
+  gallery: for_sale
+- file: 37.jpg
+  name: Oil on canvas, framed 570+570mm
+  price: $750
+  gallery: for_sale
+- file: 38.jpg
+  name: Sold
+  gallery: gallery
+- file: 39.jpg
+  name: NFS
+  gallery: gallery
+- file: 40.jpg
+  name: Commission
+  gallery: gallery
+- file: 41.jpg
+  name: Study in oil
+  gallery: gallery
+- file: 42.jpg
+  name: Study in oil
   gallery: gallery
