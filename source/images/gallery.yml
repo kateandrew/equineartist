@@ -14,40 +14,41 @@
   #name: NFS
   #gallery: gallery
 - file: 06.jpg
-  name: NFS
+  name: Sold
   gallery: gallery
 - file: 07.jpg
-  name: Sold
+  name: Oil on board 2006
   gallery: gallery
 - file: 08.jpg
-  name: Racebook collage and oil on canvas.
+  name: Oil on board 2006
   gallery: gallery
 - file: 09.jpg
-  name: Oil on board 1200+850mm
-  gallery: for_sale
+  name: Oil on board 1200x850mm
+  gallery: sold
   price: $950
 - file: 10.jpg
-  name: NFS
+  name: Racebook collage and oil on canvas.
   gallery: gallery
 - file: 11.jpg
-  name: Sold
+  name: NFS
   gallery: gallery
 - file: 12.jpg
-  name: Oil +collage on canvas 450+450mm
+  name: Oil +collage on canvas 450x450mm
   price: $650
-  gallery: for_sale
+  gallery: sold
 - file: 13.jpg
-  name: Oil on board, framed 1200+950mm
+  name: Oil on board, framed 1200x950mm
   price: $1,450
-  gallery: for_sale
+  gallery: sold
 - file: 14.jpg
-  name: Commission
+  name: NFS
   gallery: gallery
 - file: 15.jpg
-  name: Commission
-  gallery: gallery
+  name: Oil on board framed 1200x950mm
+  gallery: for_sale
+  price: $1,450
 - file: 16.jpg
-  name: NFS
+  name: Commission
   gallery: gallery
 - file: 17.jpg
   name: NFS
@@ -56,13 +57,13 @@
   name: Oil on board, framed
   gallery: gallery
 - file: 19.jpg
-  name: Oil on canvas
+  name: Sold
   gallery: gallery
 #- file: 20.jpg
   #name: Oil on board, framed
   #gallery: gallery
 - file: 21.jpg
-  name: Oil on board, framed
+  name: Oil on canvas
   gallery: gallery
 - file: 22.jpg
   name:  Oil on board, framed
@@ -77,7 +78,7 @@
   name: Sold
   gallery: gallery
 - file: 26.jpg
-  name: NFS
+  name: Photo
   gallery: gallery
 - file: 27.jpg
   name: Our horses; my models
@@ -92,8 +93,8 @@
   name: Oil on canvas
   gallery: gallery
 - file: 33.jpg
-  name: Oil on canvas 900+750mm
-  price: $1,500
+  name: Oil on canvas 900x750mm
+  price: $2,500
   gallery: for_sale
 - file: 34.jpg
   name: Oil on canvas
@@ -104,11 +105,11 @@
   gallery: gallery
 - file: 36.jpg
   name: Oil on canvas
-  price: $650
+  price: $750
   gallery: for_sale
 - file: 37.jpg
-  name: Oil on canvas, framed 570+570mm
-  price: $750
+  name: Oil on canvas, framed 570x570mm
+  price: $790
   gallery: for_sale
 - file: 38.jpg
   name: Sold
