@@ -53,6 +53,9 @@
 - file: 17.jpg
   name: NFS
   gallery: gallery
+- file: 44.jpg
+  name: Oil on sealed Hanemuile Paper
+  gallery: gallery
 - file: 18.jpg
   name: Oil on board, framed
   gallery: gallery
@@ -125,4 +128,7 @@
   gallery: gallery
 - file: 42.jpg
   name: Study in oil
+  gallery: gallery
+- file: 43.jpg
+  name: Commission
   gallery: gallery
