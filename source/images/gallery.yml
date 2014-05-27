@@ -1,3 +1,9 @@
+- file: 45.jpg
+  name: Commission 2014
+  gallery: gallery
+- file: 46.jpg
+  name: Oil on Canvas 2014
+  gallery: gallery
 - file: 01.jpg
   name: Oil on canvas
   gallery: gallery
@@ -54,7 +60,7 @@
   name: NFS
   gallery: gallery
 - file: 44.jpg
-  name: Oil on sealed Hanemuile Paper
+  name: Sold
   gallery: gallery
 - file: 18.jpg
   name: Oil on board, framed
