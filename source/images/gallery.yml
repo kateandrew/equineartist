@@ -1,8 +1,5 @@
 - file: 45.jpg
-  name: Commission 2014
-  gallery: gallery
-- file: 46.jpg
-  name: Oil on Canvas 2014
+  name: Oil on Canvas
   gallery: gallery
 - file: 01.jpg
   name: Oil on canvas
@@ -56,6 +53,9 @@
 - file: 16.jpg
   name: Commission
   gallery: gallery
+- file: 46.jpg
+  name: Commission 2014
+  gallery: gallery
 - file: 17.jpg
   name: NFS
   gallery: gallery
@@ -103,12 +103,10 @@
   gallery: gallery
 - file: 33.jpg
   name: Oil on canvas 900x750mm
-  price: $2,500
-  gallery: for_sale
+  gallery: gallery
 - file: 34.jpg
   name: Oil on canvas
-  price: $750
-  gallery: for_sale
+  gallery: gallery
 - file: 35.jpg
   name: NFS, Save The Children card
   gallery: gallery
