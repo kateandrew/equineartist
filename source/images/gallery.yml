@@ -1,3 +1,9 @@
+- file: 50.jpg
+  name: 
+  gallery: gallery
+- file: 51.jpg
+  name: 
+  gallery: gallery
 - file: 45.jpg
   name: Oil on Canvas
   gallery: gallery
@@ -48,7 +54,7 @@
   gallery: gallery
 - file: 15.jpg
   name: Oil on board framed 1200x950mm
-  gallery: for_sale
+  gallery: gallery
   price: $1,450
 - file: 16.jpg
   name: Commission
@@ -113,11 +119,11 @@
 - file: 36.jpg
   name: Oil on canvas
   price: $750
-  gallery: for_sale
+  gallery: gallery
 - file: 37.jpg
   name: Oil on canvas, framed 570x570mm
   price: $790
-  gallery: for_sale
+  gallery: gallery
 - file: 38.jpg
   name: Sold
   gallery: gallery
@@ -138,4 +144,7 @@
   gallery: gallery
 - file: 47.jpg
   name: Oil on Linen
+  gallery: gallery
+- file: 52.jpg
+  name: 
   gallery: gallery
