@@ -1,8 +1,8 @@
 - file: 50.jpg
-  name: 
+  name: 2015
   gallery: gallery
 - file: 51.jpg
-  name: 
+  name: 2015
   gallery: gallery
 - file: 45.jpg
   name: Oil on Canvas
@@ -34,7 +34,6 @@
 - file: 09.jpg
   name: Oil on board 1200x850mm
   gallery: sold
-  price: $950
 - file: 10.jpg
   name: Racebook collage and oil on canvas.
   gallery: gallery
@@ -43,11 +42,9 @@
   gallery: gallery
 - file: 12.jpg
   name: Oil +collage on canvas 450x450mm
-  price: $650
   gallery: sold
 - file: 13.jpg
   name: Oil on board, framed 1200x950mm
-  price: $1,450
   gallery: sold
 - file: 14.jpg
   name: NFS
@@ -55,7 +52,6 @@
 - file: 15.jpg
   name: Oil on board framed 1200x950mm
   gallery: gallery
-  price: $1,450
 - file: 16.jpg
   name: Commission
   gallery: gallery
@@ -118,11 +114,9 @@
   gallery: gallery
 - file: 36.jpg
   name: Oil on canvas
-  price: $750
   gallery: gallery
 - file: 37.jpg
   name: Oil on canvas, framed 570x570mm
-  price: $790
   gallery: gallery
 - file: 38.jpg
   name: Sold
@@ -146,5 +140,5 @@
   name: Oil on Linen
   gallery: gallery
 - file: 52.jpg
-  name: 
+  name: 2015
   gallery: gallery
