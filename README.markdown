@@ -1,0 +1,1 @@
+to publish, run `rm -rf build && rake publish`
