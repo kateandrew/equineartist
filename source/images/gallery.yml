@@ -1,3 +1,6 @@
+- file: horselinen.jpg
+  name: Oil on linen 800x600mm for sale.
+  gallery: gallery
 - file: 50.jpg
   name: 2015
   gallery: gallery
@@ -141,4 +144,16 @@
   gallery: gallery
 - file: 52.jpg
   name: 2015
+  gallery: gallery
+- file: lifedrawing-a.jpg
+  name: Life Drawing 2017
+  gallery: gallery
+- file: lifedrawing-b.jpg
+  name: Life Drawing 2017
+  gallery: gallery
+- file: lifedrawing-c.jpg
+  name: Life Drawing 2017
+  gallery: gallery
+- file: chumming.jpg
+  name: "'Chumming' off Little Mangere Island, Chathams 900×600mm. mixed media on linen"
   gallery: gallery
