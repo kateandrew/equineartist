@@ -1,6 +1,6 @@
 /*! normalize.css v1.1.0 | MIT License | git.io/normalize */
 /*! normalize.css v1.1.0 | HTML5 Display Definitions | MIT License | git.io/normalize */
-/* line 20, /usr/local/bundle/gems/compass-normalize-1.4.3/stylesheets/normalize/_html5.scss */
+/* line 20, /Library/Ruby/Gems/2.3.0/gems/compass-normalize-1.4.3/stylesheets/normalize/_html5.scss */
 article,
 aside,
 details,
@@ -15,7 +15,7 @@ section,
 summary {
   display: block; }
 
-/* line 28, /usr/local/bundle/gems/compass-normalize-1.4.3/stylesheets/normalize/_html5.scss */
+/* line 28, /Library/Ruby/Gems/2.3.0/gems/compass-normalize-1.4.3/stylesheets/normalize/_html5.scss */
 audio,
 canvas,
 video {
@@ -23,24 +23,24 @@ video {
   *display: inline;
   *zoom: 1; }
 
-/* line 39, /usr/local/bundle/gems/compass-normalize-1.4.3/stylesheets/normalize/_html5.scss */
+/* line 39, /Library/Ruby/Gems/2.3.0/gems/compass-normalize-1.4.3/stylesheets/normalize/_html5.scss */
 audio:not([controls]) {
   display: none;
   height: 0; }
 
-/* line 46, /usr/local/bundle/gems/compass-normalize-1.4.3/stylesheets/normalize/_html5.scss */
+/* line 46, /Library/Ruby/Gems/2.3.0/gems/compass-normalize-1.4.3/stylesheets/normalize/_html5.scss */
 [hidden] {
   display: none; }
 
 /*! normalize.css v1.1.0 | Base | MIT License | git.io/normalize */
-/* line 13, /usr/local/bundle/gems/compass-normalize-1.4.3/stylesheets/normalize/_base.scss */
+/* line 13, /Library/Ruby/Gems/2.3.0/gems/compass-normalize-1.4.3/stylesheets/normalize/_base.scss */
 html {
   font-size: 100%;
   font-family: sans-serif;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%; }
 
-/* line 30, /usr/local/bundle/gems/compass-normalize-1.4.3/stylesheets/normalize/_base.scss */
+/* line 30, /Library/Ruby/Gems/2.3.0/gems/compass-normalize-1.4.3/stylesheets/normalize/_base.scss */
 html,
 button,
 input,
@@ -48,85 +48,85 @@ select,
 textarea {
   font-family: sans-serif; }
 
-/* line 37, /usr/local/bundle/gems/compass-normalize-1.4.3/stylesheets/normalize/_base.scss */
+/* line 37, /Library/Ruby/Gems/2.3.0/gems/compass-normalize-1.4.3/stylesheets/normalize/_base.scss */
 body {
   margin: 0; }
 
 /*! normalize.css v1.1.0 | Links | MIT License | git.io/normalize */
-/* line 9, /usr/local/bundle/gems/compass-normalize-1.4.3/stylesheets/normalize/_links.scss */
+/* line 9, /Library/Ruby/Gems/2.3.0/gems/compass-normalize-1.4.3/stylesheets/normalize/_links.scss */
 a:focus {
   outline: thin dotted; }
 
-/* line 16, /usr/local/bundle/gems/compass-normalize-1.4.3/stylesheets/normalize/_links.scss */
+/* line 16, /Library/Ruby/Gems/2.3.0/gems/compass-normalize-1.4.3/stylesheets/normalize/_links.scss */
 a:active,
 a:hover {
   outline: 0; }
 
 /*! normalize.css v1.1.0 | Typography | MIT License | git.io/normalize */
-/* line 13, /usr/local/bundle/gems/compass-normalize-1.4.3/stylesheets/normalize/_typography.scss */
+/* line 13, /Library/Ruby/Gems/2.3.0/gems/compass-normalize-1.4.3/stylesheets/normalize/_typography.scss */
 h1 {
   font-size: 2em;
   margin: 0.67em 0; }
 
-/* line 19, /usr/local/bundle/gems/compass-normalize-1.4.3/stylesheets/normalize/_typography.scss */
+/* line 19, /Library/Ruby/Gems/2.3.0/gems/compass-normalize-1.4.3/stylesheets/normalize/_typography.scss */
 h2 {
   font-size: 1.5em;
   margin: 0.83em 0; }
 
-/* line 24, /usr/local/bundle/gems/compass-normalize-1.4.3/stylesheets/normalize/_typography.scss */
+/* line 24, /Library/Ruby/Gems/2.3.0/gems/compass-normalize-1.4.3/stylesheets/normalize/_typography.scss */
 h3 {
   font-size: 1.17em;
   margin: 1em 0; }
 
-/* line 29, /usr/local/bundle/gems/compass-normalize-1.4.3/stylesheets/normalize/_typography.scss */
+/* line 29, /Library/Ruby/Gems/2.3.0/gems/compass-normalize-1.4.3/stylesheets/normalize/_typography.scss */
 h4 {
   font-size: 1em;
   margin: 1.33em 0; }
 
-/* line 34, /usr/local/bundle/gems/compass-normalize-1.4.3/stylesheets/normalize/_typography.scss */
+/* line 34, /Library/Ruby/Gems/2.3.0/gems/compass-normalize-1.4.3/stylesheets/normalize/_typography.scss */
 h5 {
   font-size: 0.83em;
   margin: 1.67em 0; }
 
-/* line 39, /usr/local/bundle/gems/compass-normalize-1.4.3/stylesheets/normalize/_typography.scss */
+/* line 39, /Library/Ruby/Gems/2.3.0/gems/compass-normalize-1.4.3/stylesheets/normalize/_typography.scss */
 h6 {
   font-size: 0.67em;
   margin: 2.33em 0; }
 
-/* line 47, /usr/local/bundle/gems/compass-normalize-1.4.3/stylesheets/normalize/_typography.scss */
+/* line 47, /Library/Ruby/Gems/2.3.0/gems/compass-normalize-1.4.3/stylesheets/normalize/_typography.scss */
 abbr[title] {
   border-bottom: 1px dotted; }
 
-/* line 54, /usr/local/bundle/gems/compass-normalize-1.4.3/stylesheets/normalize/_typography.scss */
+/* line 54, /Library/Ruby/Gems/2.3.0/gems/compass-normalize-1.4.3/stylesheets/normalize/_typography.scss */
 b,
 strong {
   font-weight: bold; }
 
-/* line 59, /usr/local/bundle/gems/compass-normalize-1.4.3/stylesheets/normalize/_typography.scss */
+/* line 59, /Library/Ruby/Gems/2.3.0/gems/compass-normalize-1.4.3/stylesheets/normalize/_typography.scss */
 blockquote {
   margin: 1em 40px; }
 
-/* line 66, /usr/local/bundle/gems/compass-normalize-1.4.3/stylesheets/normalize/_typography.scss */
+/* line 66, /Library/Ruby/Gems/2.3.0/gems/compass-normalize-1.4.3/stylesheets/normalize/_typography.scss */
 dfn {
   font-style: italic; }
 
-/* line 73, /usr/local/bundle/gems/compass-normalize-1.4.3/stylesheets/normalize/_typography.scss */
+/* line 73, /Library/Ruby/Gems/2.3.0/gems/compass-normalize-1.4.3/stylesheets/normalize/_typography.scss */
 hr {
   -moz-box-sizing: content-box;
   box-sizing: content-box;
   height: 0; }
 
-/* line 81, /usr/local/bundle/gems/compass-normalize-1.4.3/stylesheets/normalize/_typography.scss */
+/* line 81, /Library/Ruby/Gems/2.3.0/gems/compass-normalize-1.4.3/stylesheets/normalize/_typography.scss */
 mark {
   background: #ff0;
   color: #000; }
 
-/* line 90, /usr/local/bundle/gems/compass-normalize-1.4.3/stylesheets/normalize/_typography.scss */
+/* line 90, /Library/Ruby/Gems/2.3.0/gems/compass-normalize-1.4.3/stylesheets/normalize/_typography.scss */
 p,
 pre {
   margin: 1em 0; }
 
-/* line 100, /usr/local/bundle/gems/compass-normalize-1.4.3/stylesheets/normalize/_typography.scss */
+/* line 100, /Library/Ruby/Gems/2.3.0/gems/compass-normalize-1.4.3/stylesheets/normalize/_typography.scss */
 code,
 kbd,
 pre,
@@ -135,31 +135,31 @@ samp {
   _font-family: 'courier new', monospace;
   font-size: 1em; }
 
-/* line 110, /usr/local/bundle/gems/compass-normalize-1.4.3/stylesheets/normalize/_typography.scss */
+/* line 110, /Library/Ruby/Gems/2.3.0/gems/compass-normalize-1.4.3/stylesheets/normalize/_typography.scss */
 pre {
   white-space: pre;
   white-space: pre-wrap;
   word-wrap: break-word; }
 
-/* line 118, /usr/local/bundle/gems/compass-normalize-1.4.3/stylesheets/normalize/_typography.scss */
+/* line 118, /Library/Ruby/Gems/2.3.0/gems/compass-normalize-1.4.3/stylesheets/normalize/_typography.scss */
 q {
   quotes: "\201C" "\201D" "\2018" "\2019"; }
 
-/* line 127, /usr/local/bundle/gems/compass-normalize-1.4.3/stylesheets/normalize/_typography.scss */
+/* line 127, /Library/Ruby/Gems/2.3.0/gems/compass-normalize-1.4.3/stylesheets/normalize/_typography.scss */
 q {
   quotes: none; }
 
-/* line 132, /usr/local/bundle/gems/compass-normalize-1.4.3/stylesheets/normalize/_typography.scss */
+/* line 132, /Library/Ruby/Gems/2.3.0/gems/compass-normalize-1.4.3/stylesheets/normalize/_typography.scss */
 q:before,
 q:after {
   content: '';
   content: none; }
 
-/* line 140, /usr/local/bundle/gems/compass-normalize-1.4.3/stylesheets/normalize/_typography.scss */
+/* line 140, /Library/Ruby/Gems/2.3.0/gems/compass-normalize-1.4.3/stylesheets/normalize/_typography.scss */
 small {
   font-size: 80%; }
 
-/* line 147, /usr/local/bundle/gems/compass-normalize-1.4.3/stylesheets/normalize/_typography.scss */
+/* line 147, /Library/Ruby/Gems/2.3.0/gems/compass-normalize-1.4.3/stylesheets/normalize/_typography.scss */
 sub,
 sup {
   font-size: 75%;
@@ -167,71 +167,71 @@ sup {
   position: relative;
   vertical-align: baseline; }
 
-/* line 154, /usr/local/bundle/gems/compass-normalize-1.4.3/stylesheets/normalize/_typography.scss */
+/* line 154, /Library/Ruby/Gems/2.3.0/gems/compass-normalize-1.4.3/stylesheets/normalize/_typography.scss */
 sup {
   top: -0.5em; }
 
-/* line 158, /usr/local/bundle/gems/compass-normalize-1.4.3/stylesheets/normalize/_typography.scss */
+/* line 158, /Library/Ruby/Gems/2.3.0/gems/compass-normalize-1.4.3/stylesheets/normalize/_typography.scss */
 sub {
   bottom: -0.25em; }
 
-/* line 11, /usr/local/bundle/gems/compass-normalize-1.4.3/stylesheets/normalize/_lists.scss */
+/* line 11, /Library/Ruby/Gems/2.3.0/gems/compass-normalize-1.4.3/stylesheets/normalize/_lists.scss */
 dl,
 menu,
 ol,
 ul {
   margin: 1em 0; }
 
-/* line 15, /usr/local/bundle/gems/compass-normalize-1.4.3/stylesheets/normalize/_lists.scss */
+/* line 15, /Library/Ruby/Gems/2.3.0/gems/compass-normalize-1.4.3/stylesheets/normalize/_lists.scss */
 dd {
   margin: 0 0 0 40px; }
 
-/* line 23, /usr/local/bundle/gems/compass-normalize-1.4.3/stylesheets/normalize/_lists.scss */
+/* line 23, /Library/Ruby/Gems/2.3.0/gems/compass-normalize-1.4.3/stylesheets/normalize/_lists.scss */
 menu,
 ol,
 ul {
   padding: 0 0 0 40px; }
 
-/* line 30, /usr/local/bundle/gems/compass-normalize-1.4.3/stylesheets/normalize/_lists.scss */
+/* line 30, /Library/Ruby/Gems/2.3.0/gems/compass-normalize-1.4.3/stylesheets/normalize/_lists.scss */
 nav ul,
 nav ol {
   list-style: none;
   list-style-image: none; }
 
 /*! normalize.css v1.1.0 | Embedded Content | MIT License | git.io/normalize */
-/* line 9, /usr/local/bundle/gems/compass-normalize-1.4.3/stylesheets/normalize/_embeds.scss */
+/* line 9, /Library/Ruby/Gems/2.3.0/gems/compass-normalize-1.4.3/stylesheets/normalize/_embeds.scss */
 img {
   border: 0;
   -ms-interpolation-mode: bicubic; }
 
-/* line 18, /usr/local/bundle/gems/compass-normalize-1.4.3/stylesheets/normalize/_embeds.scss */
+/* line 18, /Library/Ruby/Gems/2.3.0/gems/compass-normalize-1.4.3/stylesheets/normalize/_embeds.scss */
 svg:not(:root) {
   overflow: hidden; }
 
 /*! normalize.css v1.1.0 | Figures | MIT License | git.io/normalize */
-/* line 9, /usr/local/bundle/gems/compass-normalize-1.4.3/stylesheets/normalize/_figures.scss */
+/* line 9, /Library/Ruby/Gems/2.3.0/gems/compass-normalize-1.4.3/stylesheets/normalize/_figures.scss */
 figure {
   margin: 0; }
 
 /*! normalize.css v1.1.0 | Forms | MIT License | git.io/normalize */
-/* line 10, /usr/local/bundle/gems/compass-normalize-1.4.3/stylesheets/normalize/_forms.scss */
+/* line 10, /Library/Ruby/Gems/2.3.0/gems/compass-normalize-1.4.3/stylesheets/normalize/_forms.scss */
 form {
   margin: 0; }
 
-/* line 17, /usr/local/bundle/gems/compass-normalize-1.4.3/stylesheets/normalize/_forms.scss */
+/* line 17, /Library/Ruby/Gems/2.3.0/gems/compass-normalize-1.4.3/stylesheets/normalize/_forms.scss */
 fieldset {
   border: 1px solid #c0c0c0;
   margin: 0 2px;
   padding: 0.35em 0.625em 0.75em; }
 
-/* line 30, /usr/local/bundle/gems/compass-normalize-1.4.3/stylesheets/normalize/_forms.scss */
+/* line 30, /Library/Ruby/Gems/2.3.0/gems/compass-normalize-1.4.3/stylesheets/normalize/_forms.scss */
 legend {
   border: 0;
   padding: 0;
   white-space: normal;
   *margin-left: -7px; }
 
-/* line 49, /usr/local/bundle/gems/compass-normalize-1.4.3/stylesheets/normalize/_forms.scss */
+/* line 49, /Library/Ruby/Gems/2.3.0/gems/compass-normalize-1.4.3/stylesheets/normalize/_forms.scss */
 button,
 input,
 select,
@@ -242,17 +242,17 @@ textarea {
   vertical-align: baseline;
   *vertical-align: middle; }
 
-/* line 63, /usr/local/bundle/gems/compass-normalize-1.4.3/stylesheets/normalize/_forms.scss */
+/* line 63, /Library/Ruby/Gems/2.3.0/gems/compass-normalize-1.4.3/stylesheets/normalize/_forms.scss */
 button,
 input {
   line-height: normal; }
 
-/* line 73, /usr/local/bundle/gems/compass-normalize-1.4.3/stylesheets/normalize/_forms.scss */
+/* line 73, /Library/Ruby/Gems/2.3.0/gems/compass-normalize-1.4.3/stylesheets/normalize/_forms.scss */
 button,
 select {
   text-transform: none; }
 
-/* line 90, /usr/local/bundle/gems/compass-normalize-1.4.3/stylesheets/normalize/_forms.scss */
+/* line 90, /Library/Ruby/Gems/2.3.0/gems/compass-normalize-1.4.3/stylesheets/normalize/_forms.scss */
 button,
 html input[type="button"],
 input[type="reset"],
@@ -261,12 +261,12 @@ input[type="submit"] {
   cursor: pointer;
   *overflow: visible; }
 
-/* line 101, /usr/local/bundle/gems/compass-normalize-1.4.3/stylesheets/normalize/_forms.scss */
+/* line 101, /Library/Ruby/Gems/2.3.0/gems/compass-normalize-1.4.3/stylesheets/normalize/_forms.scss */
 button[disabled],
 html input[disabled] {
   cursor: default; }
 
-/* line 113, /usr/local/bundle/gems/compass-normalize-1.4.3/stylesheets/normalize/_forms.scss */
+/* line 113, /Library/Ruby/Gems/2.3.0/gems/compass-normalize-1.4.3/stylesheets/normalize/_forms.scss */
 input[type="checkbox"],
 input[type="radio"] {
   box-sizing: border-box;
@@ -274,31 +274,31 @@ input[type="radio"] {
   *height: 13px;
   *width: 13px; }
 
-/* line 126, /usr/local/bundle/gems/compass-normalize-1.4.3/stylesheets/normalize/_forms.scss */
+/* line 126, /Library/Ruby/Gems/2.3.0/gems/compass-normalize-1.4.3/stylesheets/normalize/_forms.scss */
 input[type="search"] {
   -webkit-appearance: textfield;
   -moz-box-sizing: content-box;
   -webkit-box-sizing: content-box;
   box-sizing: content-box; }
 
-/* line 137, /usr/local/bundle/gems/compass-normalize-1.4.3/stylesheets/normalize/_forms.scss */
+/* line 137, /Library/Ruby/Gems/2.3.0/gems/compass-normalize-1.4.3/stylesheets/normalize/_forms.scss */
 input[type="search"]::-webkit-search-cancel-button,
 input[type="search"]::-webkit-search-decoration {
   -webkit-appearance: none; }
 
-/* line 144, /usr/local/bundle/gems/compass-normalize-1.4.3/stylesheets/normalize/_forms.scss */
+/* line 144, /Library/Ruby/Gems/2.3.0/gems/compass-normalize-1.4.3/stylesheets/normalize/_forms.scss */
 button::-moz-focus-inner,
 input::-moz-focus-inner {
   border: 0;
   padding: 0; }
 
-/* line 152, /usr/local/bundle/gems/compass-normalize-1.4.3/stylesheets/normalize/_forms.scss */
+/* line 152, /Library/Ruby/Gems/2.3.0/gems/compass-normalize-1.4.3/stylesheets/normalize/_forms.scss */
 textarea {
   overflow: auto;
   vertical-align: top; }
 
 /*! normalize.css v1.1.0 | Tables | MIT License | git.io/normalize */
-/* line 9, /usr/local/bundle/gems/compass-normalize-1.4.3/stylesheets/normalize/_tables.scss */
+/* line 9, /Library/Ruby/Gems/2.3.0/gems/compass-normalize-1.4.3/stylesheets/normalize/_tables.scss */
 table {
   border-collapse: collapse;
   border-spacing: 0; }
@@ -310,7 +310,7 @@ table {
   font-weight: normal;
   font-style: normal; }
 
-/* line 3, /app/source/stylesheets/font.css.sass */
+/* line 3, /Users/dane/Code/equineartist/source/stylesheets/font.css.sass */
 .icon {
   font-family: "icomoon";
   speak: none;
@@ -327,7 +327,7 @@ table {
  * author: David Paul Hamilton - http://orangebox.davidpaulhamilton.net
  * copyright: Copyright (c) 2011 David Hamilton / DavidPaulHamilton.net All rights reserved.
  * license: GNU/GPL license: http://www.gnu.org/copyleft/gpl.html */
-/* line 8, /app/source/stylesheets/orangebox.css.sass */
+/* line 8, /Users/dane/Code/equineartist/source/stylesheets/orangebox.css.sass */
 #ob_overlay {
   background-color: #333333;
   display: none;
@@ -338,7 +338,7 @@ table {
   width: 100%;
   z-index: 100; }
 
-/* line 18, /app/source/stylesheets/orangebox.css.sass */
+/* line 18, /Users/dane/Code/equineartist/source/stylesheets/orangebox.css.sass */
 #ob_container {
   height: 100%;
   left: 0;
@@ -347,13 +347,13 @@ table {
   width: 100%;
   z-index: 101; }
 
-/* line 26, /app/source/stylesheets/orangebox.css.sass */
+/* line 26, /Users/dane/Code/equineartist/source/stylesheets/orangebox.css.sass */
 #ob_float {
   float: left;
   height: 50%;
   min-width: 100%; }
 
-/* line 31, /app/source/stylesheets/orangebox.css.sass */
+/* line 31, /Users/dane/Code/equineartist/source/stylesheets/orangebox.css.sass */
 #ob_window {
   clear: both;
   cursor: default;
@@ -363,12 +363,12 @@ table {
   margin: 0 auto;
   padding: 22px; }
 
-/* line 40, /app/source/stylesheets/orangebox.css.sass */
+/* line 40, /Users/dane/Code/equineartist/source/stylesheets/orangebox.css.sass */
 #ob_content {
   background-color: white;
   border: 0 solid white; }
 
-/* line 44, /app/source/stylesheets/orangebox.css.sass */
+/* line 44, /Users/dane/Code/equineartist/source/stylesheets/orangebox.css.sass */
 #ob_caption {
   color: #333333;
   background-color: white;
@@ -376,22 +376,22 @@ table {
   bottom: 15%;
   font-size: small;
   max-width: 75%; }
-  /* line 51, /app/source/stylesheets/orangebox.css.sass */
+  /* line 51, /Users/dane/Code/equineartist/source/stylesheets/orangebox.css.sass */
   #ob_caption p {
     padding: 0;
     margin: 10px;
     cursor: text; }
 
-/* line 56, /app/source/stylesheets/orangebox.css.sass */
+/* line 56, /Users/dane/Code/equineartist/source/stylesheets/orangebox.css.sass */
 #ob_window img {
   display: block; }
 
-/* line 59, /app/source/stylesheets/orangebox.css.sass */
+/* line 59, /Users/dane/Code/equineartist/source/stylesheets/orangebox.css.sass */
 #ob_inline {
   padding: 20px;
   overflow: auto; }
 
-/* line 63, /app/source/stylesheets/orangebox.css.sass */
+/* line 63, /Users/dane/Code/equineartist/source/stylesheets/orangebox.css.sass */
 #ob_load {
   -moz-border-radius: 5px;
   background: url("../images/orangebox/loading.gif") no-repeat center;
@@ -406,13 +406,13 @@ table {
   margin: -25px 0 0 -25px;
   padding: 5px; }
 
-/* line 77, /app/source/stylesheets/orangebox.css.sass */
+/* line 77, /Users/dane/Code/equineartist/source/stylesheets/orangebox.css.sass */
 #ob_error {
   text-align: center;
   width: 250px;
   padding: 10px; }
 
-/* line 82, /app/source/stylesheets/orangebox.css.sass */
+/* line 82, /Users/dane/Code/equineartist/source/stylesheets/orangebox.css.sass */
 #ob_close {
   background: url("../images/orangebox/buttons.png");
   cursor: pointer;
@@ -423,7 +423,7 @@ table {
   width: 30px;
   z-index: 1103; }
 
-/* line 92, /app/source/stylesheets/orangebox.css.sass */
+/* line 92, /Users/dane/Code/equineartist/source/stylesheets/orangebox.css.sass */
 #ob_title {
   color: white;
   left: auto;
@@ -431,12 +431,12 @@ table {
   right: 22px;
   top: -2px;
   z-index: 1103; }
-  /* line 99, /app/source/stylesheets/orangebox.css.sass */
+  /* line 99, /Users/dane/Code/equineartist/source/stylesheets/orangebox.css.sass */
   #ob_title h3 {
     margin: 0;
     padding: 0; }
 
-/* line 103, /app/source/stylesheets/orangebox.css.sass */
+/* line 103, /Users/dane/Code/equineartist/source/stylesheets/orangebox.css.sass */
 #ob_left, #ob_right {
   bottom: 8px;
   cursor: pointer;
@@ -445,15 +445,15 @@ table {
   width: 75px;
   z-index: 1102; }
 
-/* line 111, /app/source/stylesheets/orangebox.css.sass */
+/* line 111, /Users/dane/Code/equineartist/source/stylesheets/orangebox.css.sass */
 #ob_left {
   left: -53px; }
 
-/* line 114, /app/source/stylesheets/orangebox.css.sass */
+/* line 114, /Users/dane/Code/equineartist/source/stylesheets/orangebox.css.sass */
 #ob_right {
   right: -53px; }
 
-/* line 117, /app/source/stylesheets/orangebox.css.sass */
+/* line 117, /Users/dane/Code/equineartist/source/stylesheets/orangebox.css.sass */
 #ob_left-ico, #ob_right-ico {
   cursor: pointer;
   display: block;
@@ -464,28 +464,28 @@ table {
   width: 30px;
   z-index: 1102; }
 
-/* line 127, /app/source/stylesheets/orangebox.css.sass */
+/* line 127, /Users/dane/Code/equineartist/source/stylesheets/orangebox.css.sass */
 #ob_left-ico {
   background: url("../images/orangebox/buttons.png") center;
   right: 10px; }
 
-/* line 131, /app/source/stylesheets/orangebox.css.sass */
+/* line 131, /Users/dane/Code/equineartist/source/stylesheets/orangebox.css.sass */
 #ob_right-ico {
   background: url("../images/orangebox/buttons.png") right;
   left: 10px; }
 
-/* line 135, /app/source/stylesheets/orangebox.css.sass */
+/* line 135, /Users/dane/Code/equineartist/source/stylesheets/orangebox.css.sass */
 #ob_left:hover, #ob_right:hover {
   visibility: visible; }
 
-/* line 138, /app/source/stylesheets/orangebox.css.sass */
+/* line 138, /Users/dane/Code/equineartist/source/stylesheets/orangebox.css.sass */
 #ob_dots {
   list-style: none;
   text-align: center;
   margin: 0;
   padding: 0;
   width: 100%; }
-  /* line 144, /app/source/stylesheets/orangebox.css.sass */
+  /* line 144, /Users/dane/Code/equineartist/source/stylesheets/orangebox.css.sass */
   #ob_dots li {
     height: 8px;
     list-style: none;
@@ -499,39 +499,39 @@ table {
     display: inline-block;
     zoom: 1;
     *display: inline; }
-  /* line 157, /app/source/stylesheets/orangebox.css.sass */
+  /* line 157, /Users/dane/Code/equineartist/source/stylesheets/orangebox.css.sass */
   #ob_dots .current {
     background-color: #cccccc !important; }
 
-/* line 160, /app/source/stylesheets/orangebox.css.sass */
+/* line 160, /Users/dane/Code/equineartist/source/stylesheets/orangebox.css.sass */
 #ob_share {
   position: absolute;
   right: 24px;
   top: 3px; }
 
-/* line 61, /usr/local/bundle/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/typography/_vertical_rhythm.scss */
+/* line 61, /Library/Ruby/Gems/2.3.0/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/typography/_vertical_rhythm.scss */
 * html {
   font-size: 100%; }
 
-/* line 64, /usr/local/bundle/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/typography/_vertical_rhythm.scss */
+/* line 64, /Library/Ruby/Gems/2.3.0/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/typography/_vertical_rhythm.scss */
 html {
   font-size: 16px;
   line-height: 1.5em; }
 
-/* line 9, /app/source/stylesheets/all.css.sass */
+/* line 9, /Users/dane/Code/equineartist/source/stylesheets/all.css.sass */
 html {
   background: #eed19a url("../images/bg_grain.jpg") fixed; }
 
-/* line 11, /app/source/stylesheets/all.css.sass */
+/* line 11, /Users/dane/Code/equineartist/source/stylesheets/all.css.sass */
 body {
   background: transparent url("../images/bg-fixed.jpg") fixed 100% 0 no-repeat;
   padding: 4em; }
 
-/* line 14, /app/source/stylesheets/all.css.sass */
+/* line 14, /Users/dane/Code/equineartist/source/stylesheets/all.css.sass */
 .clear {
   clear: both; }
 
-/* line 16, /app/source/stylesheets/all.css.sass */
+/* line 16, /Users/dane/Code/equineartist/source/stylesheets/all.css.sass */
 h1 {
   font-family: Italiana, Arial, sans-serif;
   max-width: 845px;
@@ -539,16 +539,16 @@ h1 {
   line-height: 1.5em;
   margin: 0px; }
 
-/* line 21, /app/source/stylesheets/all.css.sass */
+/* line 21, /Users/dane/Code/equineartist/source/stylesheets/all.css.sass */
 a {
   color: #46433f;
   text-decoration: none;
   transition: 0.5s; }
-  /* line 25, /app/source/stylesheets/all.css.sass */
+  /* line 25, /Users/dane/Code/equineartist/source/stylesheets/all.css.sass */
   a:hover {
     color: #222222; }
 
-/* line 27, /app/source/stylesheets/all.css.sass */
+/* line 27, /Users/dane/Code/equineartist/source/stylesheets/all.css.sass */
 header {
   font-family: Italiana, Arial, sans-serif;
   border-bottom: 1px solid #333333;
@@ -557,13 +557,13 @@ header {
   font-size: 2em;
   line-height: 1.5em; }
 
-/* line 33, /app/source/stylesheets/all.css.sass */
+/* line 33, /Users/dane/Code/equineartist/source/stylesheets/all.css.sass */
 .gallery {
   clear: both;
   overflow: hidden;
   max-width: 900px; }
 
-/* line 37, /app/source/stylesheets/all.css.sass */
+/* line 37, /Users/dane/Code/equineartist/source/stylesheets/all.css.sass */
 .gallery_thumb {
   float: left;
   max-width: 180px;
@@ -573,37 +573,37 @@ header {
   margin: 0.5em;
   border-radius: 0.4em;
   transition: 0.6s; }
-  /* line 46, /app/source/stylesheets/all.css.sass */
+  /* line 46, /Users/dane/Code/equineartist/source/stylesheets/all.css.sass */
   .gallery_thumb:hover {
     background: #f5e4c3; }
-  /* line 48, /app/source/stylesheets/all.css.sass */
+  /* line 48, /Users/dane/Code/equineartist/source/stylesheets/all.css.sass */
   .gallery_thumb img {
     display: block;
     margin: 0 auto; }
 
-/* line 51, /app/source/stylesheets/all.css.sass */
+/* line 51, /Users/dane/Code/equineartist/source/stylesheets/all.css.sass */
 .contacts {
   display: inline-block;
   background: #46433f;
   border-radius: 3px;
   padding: 0.5em;
   color: white; }
-  /* line 57, /app/source/stylesheets/all.css.sass */
+  /* line 57, /Users/dane/Code/equineartist/source/stylesheets/all.css.sass */
   .contacts p {
     display: inline;
     margin: 0 1em; }
     @media screen and (max-width: 600px) {
-      /* line 57, /app/source/stylesheets/all.css.sass */
+      /* line 57, /Users/dane/Code/equineartist/source/stylesheets/all.css.sass */
       .contacts p {
         display: block; } }
-  /* line 62, /app/source/stylesheets/all.css.sass */
+  /* line 62, /Users/dane/Code/equineartist/source/stylesheets/all.css.sass */
   .contacts a {
     color: white; }
 
-/* line 64, /app/source/stylesheets/all.css.sass */
+/* line 64, /Users/dane/Code/equineartist/source/stylesheets/all.css.sass */
 .header {
   transition: height 1s; }
-  /* line 66, /app/source/stylesheets/all.css.sass */
+  /* line 66, /Users/dane/Code/equineartist/source/stylesheets/all.css.sass */
   .header.fixed {
     position: fixed;
     top: 0;
@@ -611,7 +611,7 @@ header {
     border-bottom-left-radius: 3px;
     border-bottom-right-radius: 3px;
     color: white; }
-    /* line 73, /app/source/stylesheets/all.css.sass */
+    /* line 73, /Users/dane/Code/equineartist/source/stylesheets/all.css.sass */
     .header.fixed h1 {
       float: left;
       font-family: Arial, sans-serif;
@@ -620,7 +620,7 @@ header {
       top: 0;
       padding: 0.5em;
       margin: 0 3em 0 1.5em; }
-    /* line 80, /app/source/stylesheets/all.css.sass */
+    /* line 80, /Users/dane/Code/equineartist/source/stylesheets/all.css.sass */
     .header.fixed .contacts {
       float: left;
       background: transparent; }
