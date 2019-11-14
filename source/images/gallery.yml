@@ -1,17 +1,83 @@
-- file: 53.jpg
-  name: 2018
+- file: 2019_01.jpg
+  name: 2019
   gallery: gallery
-- file: 58.jpg
-  name: 2018
+- file: 2019_02.jpg
+  name: 2019
   gallery: gallery
-- file: 55.jpg
-  name: 2018
+- file: 2019_03.jpg
+  name: 2019
   gallery: gallery
-- file: 56.jpg
-  name: 2018
+- file: 2019_04.jpg
+  name: 2019
   gallery: gallery
-- file: 57.jpg
-  name: 2018
+- file: 2019_05.jpg
+  name: 2019
+  gallery: gallery
+- file: 2019_06.jpg
+  name: 2019
+  gallery: gallery
+- file: 2019_07.jpg
+  name: 2019
+  gallery: gallery
+- file: 2019_08.jpg
+  name: 2019
+  gallery: gallery
+- file: 2019_09.jpg
+  name: 2019
+  gallery: gallery
+- file: 2019_10.jpg
+  name: 2019
+  gallery: gallery
+- file: 2019_11.jpg
+  name: 2019
+  gallery: gallery
+- file: 2019_12.jpg
+  name: 2019
+  gallery: gallery
+- file: 2019_13.jpg
+  name: 2019
+  gallery: gallery
+- file: 2019_14.jpg
+  name: 2019
+  gallery: gallery
+- file: 2019_15.jpg
+  name: 2019
+  gallery: gallery
+- file: 2019_16.jpg
+  name: 2019
+  gallery: gallery
+- file: 2019_17.jpg
+  name: 2019
+  gallery: gallery
+- file: 2019_18.jpg
+  name: 2019
+  gallery: gallery
+- file: 2019_19.jpg
+  name: 2019
+  gallery: gallery
+- file: 2019_20.jpg
+  name: 2019
+  gallery: gallery
+- file: 2019_21.jpg
+  name: 2019
+  gallery: gallery
+- file: 2019_22.jpg
+  name: 2019
+  gallery: gallery
+- file: 2019_23.jpg
+  name: 2019
+  gallery: gallery
+- file: 2019_24.jpg
+  name: 2019
+  gallery: gallery
+- file: 2019_25.jpg
+  name: 2019
+  gallery: gallery
+- file: 2019_26.jpg
+  name: 2019
+  gallery: gallery
+- file: 2019_27.jpg
+  name: 2019
   gallery: gallery
 - file: horselinen.jpg
   name: Oil on linen 800x600mm for sale.
@@ -31,15 +97,9 @@
 - file: 02.jpg
   name: Sold
   gallery: gallery
-#- file: 03.jpg
-  #name: Sold
-  #gallery: gallery
 - file: 04.jpg
   name: Sold
   gallery: gallery
-#- file: 05.jpg
-  #name: NFS
-  #gallery: gallery
 - file: 06.jpg
   name: Sold
   gallery: gallery
@@ -124,26 +184,11 @@
 - file: 33.jpg
   name: Oil on canvas 900x750mm
   gallery: gallery
-- file: 34.jpg
-  name: Oil on canvas
-  gallery: gallery
-- file: 35.jpg
-  name: NFS, Save The Children card
-  gallery: gallery
-- file: 36.jpg
-  name: Oil on canvas
-  gallery: gallery
-- file: 37.jpg
-  name: Oil on canvas, framed 570x570mm
-  gallery: gallery
 - file: 38.jpg
   name: Sold
   gallery: gallery
 - file: 39.jpg
   name: NFS
-  gallery: gallery
-- file: 40.jpg
-  name: Commission
   gallery: gallery
 - file: 41.jpg
   name: Study in oil
@@ -151,24 +196,6 @@
 - file: 42.jpg
   name: Study in oil
   gallery: gallery
-- file: 43.jpg
-  name: Commission
-  gallery: gallery
-- file: 47.jpg
-  name: Oil on Linen
-  gallery: gallery
 - file: 52.jpg
   name: 2015
-  gallery: gallery
-- file: lifedrawing-a.jpg
-  name: Life Drawing 2017
-  gallery: gallery
-- file: lifedrawing-b.jpg
-  name: Life Drawing 2017
-  gallery: gallery
-- file: lifedrawing-c.jpg
-  name: Life Drawing 2017
-  gallery: gallery
-- file: chumming.jpg
-  name: "'Chumming' off Little Mangere Island, Chathams 900×600mm. mixed media on linen"
   gallery: gallery
