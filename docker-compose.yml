@@ -5,6 +5,7 @@ services:
     volumes:
     - .:/app
     - ~/.ssh/id_rsa:/root/.ssh/id_rsa
+    - ~/.gitconfig:/root/.gitconfig
     ports:
     - 4567:4567
 #    command: ["tail", "-f", "/dev/null"]
