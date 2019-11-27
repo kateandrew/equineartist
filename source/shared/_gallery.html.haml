@@ -8,6 +8,6 @@
         %span.item-description=item['description']
       - if item['price']
         %span.item-description=item['price']
-    - if (i+1) % 4 == 0
+    - if (i < 9 && ((i+1) % 3 == 0)) || ((i >= 9) && ((i-8) % 4 == 0))
       .clear
   .clear
