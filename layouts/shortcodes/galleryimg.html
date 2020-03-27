@@ -1,0 +1,7 @@
+{{ $original := .Page.Resources.GetMatch (printf "%s" (.Get 0)) }}
+{{ $thumb := ($original.Fit "180x135") }}
+{{ $zoom := ($original.Fit "1280x1024") }}
+<a class="gallery_thumb" data-ob_caption="{{ .Get 1 }}" data-ob_sharelink="http://www.equineartist.co.nz/" href="{{ $zoom.RelPermalink }}" rel="lightbox[gallery1]">
+    <img src="{{ $thumb.RelPermalink }}">
+    <span class="item-name">{{ .Get 1 }}</span>
+</a>
